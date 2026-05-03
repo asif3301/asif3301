@@ -87,5 +87,5 @@ Git, GitHub, Maven, Postman, IntelliJ IDEA, VS Code, Jira, Agile Methodology
 
 ## Connect
 
-LinkedIn: Md Asif Firoz  
-Email: mdasif3301@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/md-asif-firoz-764a0b24b  
+📧 Email: mdasif3301@gmail.com  
