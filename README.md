@@ -69,7 +69,7 @@ Backend engineer with hands-on experience building scalable, production-ready mi
 
 ## 🤝 Connect
 
-🔗 LinkedIn: [Add your LinkedIn link]  
+🔗 LinkedIn: [www.linkedin.com/in/md-asif-firoz-764a0b24b]  
 📧 Email: mdasif3301@gmail.com  
 
 ---
