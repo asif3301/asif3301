@@ -1,77 +1,86 @@
-# 👋 Hi, I'm Md Asif Firoz
+# Md Asif Firoz
 
-🚀 **Java Backend Developer | Microservices | Event-Driven Systems | AWS**
-
-Backend engineer with hands-on experience building scalable, production-ready microservices using Spring Boot and Apache Kafka. Strong in designing distributed systems, implementing Saga pattern for transaction consistency, and securing APIs using JWT-based authentication.
-
-📍 Bengaluru, India  
-📧 mdasif3301@gmail.com  
+Java Backend Developer focused on building scalable microservices, event-driven systems, and secure APIs using Spring Boot and Apache Kafka.
 
 ---
 
-## ⚡ Professional Summary
+## Summary
 
-- Experience in building **microservices-based backend systems** using Java & Spring Boot  
-- Designed and implemented **10+ REST APIs** with scalable architecture  
-- Worked with **Apache Kafka** for asynchronous, event-driven communication  
-- Implemented **Saga pattern** for handling distributed transactions  
-- Improved database performance by **~25% through query optimization and indexing**  
-- Deployed containerized applications using **Docker on AWS EC2**  
+Backend engineer with practical experience in designing and developing microservices-based systems. Strong understanding of distributed architecture, asynchronous communication, and API security.
 
----
-
-## 🛠 Technical Skills
-
-**Languages:** Java (8)  
-**Backend:** Spring Boot, Spring MVC, Hibernate / JPA  
-**Architecture:** Microservices, Event-Driven Architecture, Saga Pattern  
-**Database:** MySQL, JDBC  
-**Messaging:** Apache Kafka  
-**Security:** Spring Security, JWT Authentication  
-**DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, RDS), Jenkins (CI/CD)  
-**Tools:** Git, GitHub, Maven, Postman, IntelliJ, VS Code, Jira  
+- Built and maintained microservices using Java and Spring Boot  
+- Designed and implemented 10+ REST APIs  
+- Integrated Apache Kafka for event-driven communication  
+- Implemented Saga pattern for distributed transactions  
+- Improved database performance by ~25% through optimization  
+- Deployed containerized services using Docker on AWS EC2  
 
 ---
 
-## 💡 Featured Project
+## Tech Stack
 
-### 🏥 Healthcare Appointment & Payment System (Microservices)
+**Languages**  
+Java  
+
+**Backend**  
+Spring Boot, Spring MVC, Hibernate / JPA  
+
+**Architecture**  
+Microservices, Event-Driven Systems, Saga Pattern  
+
+**Database**  
+MySQL, JDBC  
+
+**Messaging**  
+Apache Kafka  
+
+**Security**  
+Spring Security, JWT  
+
+**DevOps & Cloud**  
+Docker, Kubernetes, AWS (EC2, RDS), Jenkins  
+
+**Tools**  
+Git, GitHub, Maven, Postman, IntelliJ, VS Code, Jira  
+
+---
+
+## Featured Project
+
+### Healthcare Appointment & Payment System (Microservices)
 
 **Tech Stack:** Java, Spring Boot, Kafka, MySQL, Docker  
 
-- Designed a **microservices architecture** with independent services: User, Doctor, Appointment, Payment, Notification  
-- Implemented **event-driven communication using Apache Kafka**  
-- Used **Saga pattern** to maintain consistency across distributed services  
-- Built scalable REST APIs handling concurrent user requests  
-- Secured APIs using **JWT authentication & role-based authorization**  
-- Optimized database schemas and queries for performance  
-- Improved system responsiveness under load  
+- Designed independent services: User, Doctor, Appointment, Payment, Notification  
+- Implemented event-driven communication using Kafka  
+- Applied Saga pattern for distributed transaction management  
+- Built REST APIs handling concurrent user requests  
+- Secured APIs with JWT authentication and role-based access  
+- Optimized database queries and schema design  
+- Improved system performance and responsiveness  
 
-🔗 **Project Repository:** [Add your GitHub repo link here]
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asif3301&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif3301&layout=compact&theme=tokyonight)
+🔗 Repository: [Add your GitHub project link here]
 
 ---
 
-## 📌 Current Focus
+## System Design
 
-- Advanced Microservices Patterns (Resilience, Scaling, Observability)  
-- Cloud-native deployments on AWS  
-- CI/CD automation using Jenkins  
-
----
-
-## 🤝 Connect
-
-🔗 LinkedIn: www.linkedin.com/in/md-asif-firoz-764a0b24b 
-📧 Email: mdasif3301@gmail.com  
+- Event-driven architecture using Kafka for service decoupling  
+- Distributed transaction handling using Saga pattern  
+- Containerized deployment using Docker  
+- Scalable backend design for concurrent systems  
 
 ---
 
-⭐ From [asif3301](https://github.com/asif3301)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asif3301&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asif3301&layout=compact)
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/md-asif-firoz-764a0b24b  
+Email: mdasif3301@gmail.com  
